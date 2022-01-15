@@ -21,16 +21,16 @@ In order to accomplish the above, a mission2mars.ipynb was created and exported/
 <img width="1440" alt="Screen Shot 2022-01-15 at 2 11 01 PM" src="https://user-images.githubusercontent.com/90135381/149635601-2cd792b1-d98a-4584-bc56-0a9b78f5a419.png">
 
 
-Figure 1: Mars image with interactive scraping button and data table
+  Figure 1: Mars image with interactive scraping button and data table
 
 <img width="1440" alt="Screen Shot 2022-01-15 at 2 11 07 PM" src="https://user-images.githubusercontent.com/90135381/149635603-ad31bb3c-81b6-4d44-ad43-87c19670e954.png">
 
 
-Figure 2: 
+  Figure 2: High resolution hemisphere images with thumbnail
 
 
 <img width="1440" alt="Screen Shot 2022-01-15 at 2 11 12 PM" src="https://user-images.githubusercontent.com/90135381/149635605-e7d22d49-76c6-4f7a-b34e-b92a8cdb3a59.png">
 
-
+Figure 3: High resolution hemisphere images with thumbnail
 
 ***REFERENCES*** BCS, GOOGLE, StackOverFlow, GitHub
