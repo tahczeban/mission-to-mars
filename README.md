@@ -1,6 +1,9 @@
 # mission-to-mars
 
-***RESOURCES***˛
+***RESOURCES*** 
+
+Software: Splinter, Beautiful soup, Flask, Beautiful Soup, MongoDB, Google, Python, Jupyter Notebook/conda, VSC.
+Data Sources: Mars News, Mars Featured Images, Mars Facts, Mars Hemispheres.
 
 
 
