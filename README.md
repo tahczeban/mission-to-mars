@@ -16,6 +16,8 @@ The purpose of this challenge was to utilize the above software to access, scrap
 
 ***RESULTS AND SUMMARY***
 
+In order to accomplish the above, a mission2mars.ipynb was created and altered to the Mission_to Mars_Challenge.py and .ipynb to perform the aforementioned stipulations. Additionally, an app.py file was created to bridge the index.html file in the templates folder and the scraping.py code was created to scrape the webpage for the desired facts, tables, images and images. Bootstrap components were added to the html.index file in orfer to add a subheader, accomodate the page to adjust to the desired/chosen device and add interaction/thumbnails to the hemisphere images, as seen below (Mission_to_Mars final and copy).
+
 <img width="1440" alt="Screen Shot 2022-01-15 at 2 11 01 PM" src="https://user-images.githubusercontent.com/90135381/149635601-2cd792b1-d98a-4584-bc56-0a9b78f5a419.png">
 
 
