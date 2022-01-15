@@ -3,13 +3,14 @@
 ***RESOURCES*** 
 
 Software: Splinter, Beautiful soup, Flask, Beautiful Soup, MongoDB, Google, Python, Jupyter Notebook/conda, VSC.
+
 Data Sources: Mars News, Mars Featured Images, Mars Facts, Mars Hemispheres.
 
 
 
 ***OVERVIEW***
 
-
+The purpose of this challenge was to utilize the above software to access, scrape and 'beautify' Mars websites in order to assist Robin in creating a web app and store it in the MongoDB. Additionally, html code was added to create a title, adjust the app to accomodate the required sizing for various devices, and display the Mars Hemispheres images.
 
 
 
