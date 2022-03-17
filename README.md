@@ -5,7 +5,7 @@
 ![image](https://user-images.githubusercontent.com/90135381/158721963-a485793a-45eb-4214-b890-33f6a3abdbeb.jpeg)
 
 
-
+_______________
 ***RESOURCES*** 
 
 Software: Splinter, Beautiful soup, Flask, Beautiful Soup, MongoDB, Google, Python, Jupyter Notebook/conda, VSC.
@@ -14,12 +14,13 @@ Data Sources: Mars News, Mars Featured Images, Mars Facts, Mars Hemispheres.
 
 IMAGE: obtained from: http://clipart-library.com/clipart/n1329511.htm
 
+______________
 ***OVERVIEW***
 
 The purpose of this challenge was to utilize the above software to access, scrape and 'beautify' Mars websites in order to assist Robin in creating a web app and store it in the Mongo Database, which was set up and linked to the app.py coding. Additionally, html code was added to create a title, adjust the app to accomodate the required sizing for various devices, and display the Mars Hemispheres images with either interactive or thumbnail adjustments, as displayed below.
 
 
-
+_________________________
 ***RESULTS AND SUMMARY***
 
 In order to accomplish the above, a mission2mars.ipynb was created and exported/downloaded as .py to VSC as the Mission_to Mars_Challenge.py and .ipynb to perform the aforementioned stipulations. Additionally, an app.py file was created to bridge the index.html file in the templates folder and the scraping.py code was created to scrape the webpage for the desired facts, tables, titles and images. Bootstrap components were added to the html.index file in order to add a subheader, accomodate the page to adjust to the desired/chosen device and add interaction/thumbnails to the hemisphere images. (Mission_to_Mars final and copy2).The resultant images can be seen below, as full resolution images of the hemispheres (Fig. 1-3).
@@ -39,4 +40,5 @@ In order to accomplish the above, a mission2mars.ipynb was created and exported/
 
 Figure 3: High resolution hemisphere images with thumbnail
 
+________________
 ***REFERENCES*** BCS, GOOGLE, StackOverFlow, GitHub
