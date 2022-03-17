@@ -1,12 +1,18 @@
 # mission-to-mars
 
+
+
+![image](https://user-images.githubusercontent.com/90135381/158721963-a485793a-45eb-4214-b890-33f6a3abdbeb.jpeg)
+
+
+
 ***RESOURCES*** 
 
 Software: Splinter, Beautiful soup, Flask, Beautiful Soup, MongoDB, Google, Python, Jupyter Notebook/conda, VSC.
 
 Data Sources: Mars News, Mars Featured Images, Mars Facts, Mars Hemispheres.
 
-
+IMAGE: obtained from: http://clipart-library.com/clipart/n1329511.htm
 
 ***OVERVIEW***
 
